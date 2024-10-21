@@ -79,14 +79,14 @@ section{
 }
 
 .profile-pic {
-    width: 150px;
-    height: 150px;
+    width: 170px;
+    height: 170px;
     border-radius: 50%;
     margin-bottom: 20px;
 }
 
 .intro h1 {
-    font-family: pacifico;
+
     font-size: 2.5em;
     margin: 0;
 }
@@ -119,6 +119,7 @@ section{
 .btn-cv{
     background: #fff;
     color: #000;
+    font-weight: bold;
 }
 
 .social-links a {
@@ -172,6 +173,7 @@ section{
 }
 
 #about p {
+    color: white;
     line-height: 2;
     margin: auto;
     margin-top: 1em;
@@ -451,3 +453,4 @@ nav .container ul  {
         display: flex;
     }
 }
+
